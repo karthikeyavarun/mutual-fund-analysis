@@ -39,7 +39,7 @@ Custom scoring formula based on:
 - Consistent 1-Year Return > 0
 
 ### 5. Final Output – Top 30 Funds
-Extracted the **Top 30 Mutual Funds** with best return-low risk balance  
+Extracted the **Top 30 Mutual Funds** with the best return-low risk balance  
 🔗 [Top 30 Mutual Funds (Excel)](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/top_30_mutual_funds.xlsx)
 
 ---
@@ -72,7 +72,7 @@ After processing the data using Python and Excel, I built an **interactive dashb
 |------------------|---------|
 | 💼 **Investment Trends** | Equity Funds lead with ₹1.35M Cr total size |
 | 👤 **Fund Manager** | Vivek Sharma manages highest AUM: ₹7.3M Cr |
-| 📉 **Cost vs Return** | Index Funds have lowest expense ratio: 0.26% |
+| 📉 **Cost vs Return** | Index Funds have the lowest expense ratio: 0.26% |
 | 🏦 **Best Return (1Y)** | Bank of India Mutual Fund: 14.4% |
 | 🔄 **SIP vs Lumpsum** | Avg. SIP: ₹528.50/month, Lumpsum Min: ₹3.05K |
 | ⏳ **3-Year Returns** | Equity Funds: 37.84%, Hybrid: 14.25% |
@@ -122,12 +122,6 @@ I created a tool that helps both beginners and experts make **data-driven, low-r
 
 ---
 
-✅ **Feel free to fork, explore, and contribute!**
-
-### 🙌 Feedback Welcome
-
-Thank you for exploring my Mutual Fund Analysis project!  
-I’m always open to suggestions, improvements, or collaboration ideas.
 
 📩 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/trivedi-nirav-a1760424b)  
 📧 Or drop an email: **niravtrivedi069@gmail.com**
