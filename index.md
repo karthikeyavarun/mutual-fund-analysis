@@ -6,7 +6,7 @@ This project presents a Mutual Fund Analysis using Python, Power BI, and Jupyter
 
 ## 🔗 Project Files:
 - [Jupyter Notebook](https://github.com/karthikeyavarun/mutual-fund-analysis)
-- [Power BI File](https://github.com/karthikeyavarun/mutual-fund-analysis/blob/main/YourDashboard.pbix))
+- [Power BI File](https://github.com/karthikeyavarun/mutual-fund-analysis/blob/main/YourDashboard.pbix)
 - [Dashboard Image](./Mutual%20Fund%20Dashboard%20.png)
 
 ## 📈 Keywords:
